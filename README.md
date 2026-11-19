@@ -178,7 +178,7 @@ Library `BluetoothSerial.h` disertakan melalui dukungan ESP32 Arduino Core.
 
 ## 📁 Struktur Repository
 
-Struktur folder yang disarankan:
+Berikut merupakan susunan direktori dan file dalam repository proyek ini:
 
 ```text
 MAUNC-4WD-Bluetooth-Robot-Car/
@@ -186,20 +186,44 @@ MAUNC-4WD-Bluetooth-Robot-Car/
 ├── README.md
 │
 ├── src/
-│   └── MAUNC_Robot_2.ino
+│   └── MAUNC_Robot_2/
+│       └── MAUNC_Robot_2.ino
 │
-├── assets/
-│   └── robot-4wd.jpg
-│
-└── LICENSE
+└── assets/
+    └── assets/
+        ├── assets.gitkeep
+        ├── robot-4wd.jpeg
+        ├── robot-4wd2.jpeg
+        ├── robot-4wd3.jpeg
+        ├── robot-4wd4.jpeg
+        └── robot-4wd5.jpeg
 ```
 
-Keterangan:
+### Keterangan Folder
 
-- `README.md` — dokumentasi utama proyek.
-- `src/` — berisi source code program ESP32.
-- `assets/` — berisi dokumentasi foto atau gambar proyek.
-- `LICENSE` — informasi lisensi penggunaan dan distribusi source code.
+- **README.md** — Dokumentasi utama yang berisi deskripsi proyek, fitur, daftar komponen, konfigurasi pin, cara kerja sistem, serta informasi pengembang.
+- **src/** — Direktori yang digunakan untuk menyimpan source code utama program ESP32.
+- **MAUNC_Robot_2.ino** — File program Arduino yang mengatur seluruh sistem mobil robot, mulai dari kendali motor, komunikasi Bluetooth, sensor ultrasonik, lampu LED, hingga klakson.
+- **assets/** — Direktori dokumentasi visual proyek.
+- **robot-4wd.jpeg – robot-4wd5.jpeg** — Kumpulan foto dokumentasi mobil robot yang memperlihatkan hasil perakitan proyek.
+
+## 📸 Dokumentasi Proyek
+
+Berikut merupakan dokumentasi visual proses dan hasil pengembangan MAUNC 4WD Bluetooth Robot Car.
+
+### Foto Utama
+
+![Dokumentasi Robot 4WD](./assets/assets/robot-4wd.jpeg)
+
+### Galeri Robot
+
+![Dokumentasi Robot 4WD 2](./assets/assets/robot-4wd2.jpeg)
+
+![Dokumentasi Robot 4WD 3](./assets/assets/robot-4wd3.jpeg)
+
+![Dokumentasi Robot 4WD 4](./assets/assets/robot-4wd4.jpeg)
+
+![Dokumentasi Robot 4WD 5](./assets/assets/robot-4wd5.jpeg)
 
 ## 👥 Tim Pengembang
 
