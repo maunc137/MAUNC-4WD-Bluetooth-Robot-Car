@@ -1,6 +1,6 @@
 # 🚗 MAUNC 4WD Bluetooth Robot Car
 
-![Foto MAUNC 4WD Bluetooth Robot Car](./assets/robot-4wd.jpeg)
+![Foto MAUNC 4WD Bluetooth Robot Car](./assets/assets/robot-4wd.jpeg)
 
 ## 📌 Tentang Proyek
 
