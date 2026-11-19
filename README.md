@@ -1,8 +1,6 @@
 # 🚗 MAUNC 4WD Bluetooth Robot Car
 
-\<p align="center">   \*\*Bluetooth-Controlled 4WD Robot Car with Automatic Obstacle Braking\*\* \</p>
-
-\<p align="center">   \<img src="./assets/robot-4wd.jpg" alt="MAUNC 4WD Bluetooth Robot Car" width="600"> \</p>
+![MAUNC 4WD Bluetooth Robot Car](assets/robot-4wd.jpeg)
 
 ## 📌 Tentang Proyek
 
